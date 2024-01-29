@@ -1,0 +1,67 @@
+.Navbar-container {
+    width: auto;
+height: auto;
+
+background: #0E1015;
+}
+
+.Navbar-logo-data-wallet {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 25px;
+}
+
+.Navbar-logo-data {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+.Navbar-data {
+    display: flex;
+    gap: 25px;
+}
+
+.Navbar-wallet {
+    display: flex;
+width: 157px;
+height: 40px;
+padding: 15px 19px;
+justify-content: center;
+align-items: center;
+border-radius: 8px;
+background: linear-gradient(91deg, #FA75F8 -7.61%, #9E6EE6 116.05%);
+box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.Navbar-wallet h3 {
+    color: #000;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.Navbar-wallet-network {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.Navbar-network {
+    width: 72px;
+height: 40px;
+border-radius: 10px;
+border: 2px solid #1B2033;
+background: #151926;
+display: flex;
+align-items: center;
+}
+
+.Arblogo {
+   margin-left: 10px;
+}
+.NetworkSwitch{
+    margin-left: 16px;
+}
