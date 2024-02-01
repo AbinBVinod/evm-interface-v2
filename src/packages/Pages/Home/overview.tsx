@@ -1,12 +1,12 @@
 import "./overview.css"
 
-const Overview = () => {
+const HomePage = () => {
    
     return (
         <>
-        Overview page 
+        DashBoard Page
         </>
     )
 }
 
-export default Overview
+export default HomePage
